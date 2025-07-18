@@ -1,22 +1,9 @@
 
 # Palmoria HR Analytics – Gender Equality Case Study
 
-![Palmoria Dashboard]
+[View Palmoria Dashboard](Palmoria_dashboard.png)
 
 The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on **gender inequality** in its 3 regions. A recent media headline — _"Palmoria, the Manufacturing Patriarchy"_ — sparked public concern and internal pressure.
-
-## Background
-
-With plans to scale across regions and even internationally, the CEO, **Mr. Ayodeji Chukwuma**, assigned the CHRO, **Mr. Yunus Shofoluwe**, to investigate the claims. You have been hired as an **HR Analytics Consultant** to analyze the HR data and recommend urgent actions.
-
-
-
-# Palmoria HR Analytics – Gender Equality Case Study
-The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues bordering on **gender inequality** in its 3 regions. A recent media headline — _"Palmoria, the Manufacturing Patriarchy"_ — sparked public concern and internal pressure.
-
-## Background
-
-With plans to scale across regions and even internationally, the CEO, **Mr. Ayodeji Chukwuma**, assigned the CHRO, **Mr. Yunus Shofoluwe**, to investigate the claims. You have been hired as an **HR Analytics Consultant** to analyze the HR data and recommend urgent actions.
 
 ## Objectives
 
@@ -107,12 +94,11 @@ With plans to scale across regions and even internationally, the CEO, **Mr. Ayod
 
 
 ## Project Files
+[View](Palmoria_Analysis.pbix)– Power BI file  
+[View](Palmoria_HR_Data.csv) – Cleaned dataset  
+[View](Palmoria_Bonus_Rules.csv) – Bonus calculation criteria  
+[View Palmoria Dashboard](Palmoria_dashboard.png)` – Dashboard preview image  
 
-- `Palmoria_HR_Dashboard.pbix` – Power BI file  
-- `Palmoria_HR_Data.csv` – Cleaned dataset  
-- `Bonus_Rules.csv` – Bonus calculation criteria  
-- `Screenshot (216).png` – Dashboard preview image  
-- `README.md` – Project documentation  
 
 
 
